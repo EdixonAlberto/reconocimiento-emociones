@@ -1,0 +1,1 @@
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\x86\Release\reconocimiento_emociones.exe.config

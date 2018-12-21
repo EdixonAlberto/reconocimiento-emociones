@@ -1,0 +1,16 @@
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\reconocimiento_emociones.exe.config
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\reconocimiento_emociones.exe
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\reconocimiento_emociones.pdb
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.CV.dll
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.CV.UI.dll
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.Util.dll
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\ZedGraph.dll
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.CV.xml
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.CV.UI.xml
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\bin\Debug\Emgu.Util.xml
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.Form1.resources
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.exe
+d:\documentos\visual studio 2015\Projects\reconocimiento_emociones\reconocimiento_emociones\obj\Debug\reconocimiento_emociones.pdb
